@@ -1,3 +1,5 @@
 = Tweets for the 101 of jQAssistant
 
 This repository contains all tweets we tweet frequently to point to our tutorials at https://101.jqassistant.org/startpage/.
+
+include::tweets/analyse-java-annotations.adoc[]
