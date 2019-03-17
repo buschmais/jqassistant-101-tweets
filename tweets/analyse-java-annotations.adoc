@@ -1,9 +1,0 @@
-
-
-
-== https://101.jqassistant.org/annotations-single/index.html[Analyzing Java’s Annotations with jQAssistant^]
-
-----
-Learn how to analyze #Java's annotations with #jqassistant
-at https://101.jqassistant.org/annotations-single/
-----

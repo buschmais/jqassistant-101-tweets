@@ -1,5 +1,37 @@
+// Beobachten: https://github.com/github/markup/issues/1095
+
+
 = Tweets for the 101 of jQAssistant
 
 This repository contains all tweets we tweet frequently to point to our tutorials at https://101.jqassistant.org/startpage/.
 
-include::tweets/analyse-java-annotations.adoc[]
+== General information on our 101
+
+----
+The 101 of #jQAssistant. A source for small how-to manuals for #jQAssistant.
+We will add new how-tos soon. https://101.jqassistant.org/startpage/
+----
+
+----
+Contributing to #jQAssistant? Suggest us a topic for our 101s of
+jQAssitant by opening a issue at
+https://github.com/buschmais/jqassistant-101/issues
+----
+
+
+== https://101.jqassistant.org/annotations-single/[Analyzing Java’s Annotations with jQAssistant^]
+
+----
+Learn how to analyze #Java's annotations with #jqassistant
+at https://101.jqassistant.org/annotations-single/
+----
+
+== https://101.jqassistant.org/integrating-jqa-maven-plugin/[Getting started with jQAssistant in a Maven Project^]
+
+----
+Getting started with #jqassistant in a #Maven Project was
+the first of our short tutorials for #jQAssistant. You
+can find it at https://101.jqassistant.org/integrating-jqa-maven-plugin/
+----
+
+
