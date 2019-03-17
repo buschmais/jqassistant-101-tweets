@@ -14,7 +14,7 @@ We will add new how-tos soon. https://101.jqassistant.org/startpage/
 
 ----
 Contributing to #jQAssistant? Suggest us a topic for our 101s of
-jQAssitant by opening a issue at
+jQAssistant by opening a issue at
 https://github.com/buschmais/jqassistant-101/issues
 ----
 
