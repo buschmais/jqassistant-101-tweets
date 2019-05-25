@@ -34,4 +34,14 @@ the first of our short tutorials for #jQAssistant. You
 can find it at https://101.jqassistant.org/integrating-jqa-maven-plugin/
 ----
 
+== https://101.jqassistant.org/getting-started-spring-boot-maven/[Getting started with jQAssistant, Spring Boot and Maven^]
+
+----
+Our 101 on how to get started with jQAssistant, Spring Boot and Maven
+shows you how to use #jqassistant in a #Spring Boot project.
+https://101.jqassistant.org/getting-started-spring-boot-maven/
+----
+
+
+
 
