@@ -97,4 +97,13 @@ shows you how to do it.
 tutorial at https://101.jqassistant.org/manage-package-dependencies/.
 ----
 
+== https://101.jqassistant.org/enforce-usage-of-a-logging-api[Enforce Usage Of A Logging API^]
+
+----
+Logging is crucial for every application and requires the proper usage of
+you favorite logging API. How you can enforce the usage of a specific API
+is shown in our tutorial at https://101.jqassistant.org/enforce-usage-of-a-logging-api/.
+----
+
+
 
