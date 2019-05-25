@@ -74,6 +74,13 @@ Calculating various #metrics with #jQAsisstant? What is easy. Read our tutorial
 at https://101.jqassistant.org/calculate-metrics/ to find out how to do it.
 ----
 
+== https://101.jqassistant.org/sharing-rules-between-projects/[Sharing Rules Between Projects^]
+
+----
+Did you know that you can reuse rules for various projects? Our tutorial at
+https://101.jqassistant.org/sharing-rules-between-projects/
+shows you all you need.
+----
 
 
 
