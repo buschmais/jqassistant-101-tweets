@@ -59,6 +59,14 @@ generated graph.
 ----
 
 
+== https://101.jqassistant.org/using-3rd-party-plugins/[Using 3rd-Party Plugins^]
+
+----
+You would like to use third party plugins for jQAssistant? Read our tutorial
+at https://101.jqassistant.org/using-3rd-party-plugins/ to understand how
+easy it is.
+----
+
 
 
 
