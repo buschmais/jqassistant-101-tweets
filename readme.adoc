@@ -82,6 +82,14 @@ https://101.jqassistant.org/sharing-rules-between-projects/
 shows you all you need.
 ----
 
+== https://101.jqassistant.org/implementation-of-a-scanner-plugin/[Implementation Of A Scanner Plugin^]
+
+----
+Ever thought about implementing your own scanner plugin for #jQAssistant for your favorite
+artifact? Our tutorial at https://101.jqassistant.org/implementation-of-a-scanner-plugin/
+shows you how to do it.
+----
+
 
 
 
