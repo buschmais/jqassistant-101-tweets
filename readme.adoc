@@ -42,6 +42,16 @@ shows you how to use #jqassistant in a #Spring Boot project.
 https://101.jqassistant.org/getting-started-spring-boot-maven/
 ----
 
+== https://101.jqassistant.org/reporting-jqassistant-results-in-jenkins/[Reporting jQAssistant Results In Jenkins^]
+
+----
+The results of #jQAssistant are easily to integrate with #Jenkins. Our
+tutorial at https://101.jqassistant.org/reporting-jqassistant-results-in-jenkins/
+shows you how to do it.
+----
+
+
+
 
 
 
