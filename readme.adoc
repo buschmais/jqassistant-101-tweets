@@ -50,6 +50,14 @@ tutorial at https://101.jqassistant.org/reporting-jqassistant-results-in-jenkins
 shows you how to do it.
 ----
 
+== https://101.jqassistant.org/annotations-single/[Analyzing Java’s Annotations with jQAssistant^]
+
+----
+The graph #jQAssistant generates for an Java Annotation is not self-explanatory at first glance.
+Our tutorial at https://101.jqassistant.org/annotations-single/ helps you to understand the
+generated graph.
+----
+
 
 
 
