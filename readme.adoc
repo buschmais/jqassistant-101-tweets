@@ -90,6 +90,11 @@ artifact? Our tutorial at https://101.jqassistant.org/implementation-of-a-scanne
 shows you how to do it.
 ----
 
+== https://101.jqassistant.org/manage-package-dependencies/[Manage Package Dependencies^]
 
+----
+#jQAssistant can help you to manage our #Java package dependencies. Read our
+tutorial at https://101.jqassistant.org/manage-package-dependencies/.
+----
 
 
