@@ -62,9 +62,16 @@ generated graph.
 == https://101.jqassistant.org/using-3rd-party-plugins/[Using 3rd-Party Plugins^]
 
 ----
-You would like to use third party plugins for jQAssistant? Read our tutorial
+You would like to use third party plugins for #jQAssistant? Read our tutorial
 at https://101.jqassistant.org/using-3rd-party-plugins/ to understand how
 easy it is.
+----
+
+== https://101.jqassistant.org/calculate-metrics/index.html[Calculate Metrics^]
+
+----
+Calculating various #metrics with #jQAsisstant? What is easy. Read our tutorial
+at https://101.jqassistant.org/calculate-metrics/ to find out how to do it.
 ----
 
 
